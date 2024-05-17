@@ -2,7 +2,7 @@ package com.chatbot.languagepage;
 
 import com.chatbot.database.DataLayer;
 
-public class TamilModelPage {
+class TamilModelPage {
 	private DataLayer dataLayer = DataLayer.getInstance();
 	private TamilViewPage viewPage;
 

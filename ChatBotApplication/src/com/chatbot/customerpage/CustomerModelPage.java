@@ -2,7 +2,7 @@ package com.chatbot.customerpage;
 
 import com.chatbot.database.DataLayer;
 
-public class CustomerModelPage {
+class CustomerModelPage {
 	private CustomerViewPage viewPage;
 	private DataLayer dataLayer = DataLayer.getInstance();
 
